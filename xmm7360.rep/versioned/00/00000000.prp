@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILE_INFO>
+    <BASIC_INFO>
+        <STATE NAME="CONTENT_TYPE" TYPE="string" VALUE="Program" />
+        <STATE NAME="PARENT" TYPE="string" VALUE="/firmware" />
+        <STATE NAME="FILE_ID" TYPE="string" VALUE="10c34d70654c3" />
+        <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
+        <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
+        <STATE NAME="NAME" TYPE="string" VALUE="18500.5001.00.02.22.93.fls_ID2_CODE_LoadMap0" />
+    </BASIC_INFO>
+</FILE_INFO>
